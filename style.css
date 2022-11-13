@@ -1,0 +1,43 @@
+ul {
+    display: inline;
+    list-style-type: none;
+    font-size: 30px;
+}
+.list1 {
+    color: red;
+}
+.list1 img {
+    width: 15%;
+    border-radius: 200px;
+}
+.list2 {
+    color: green;
+}
+.list2 img {
+    width: 15%;
+    border-radius: 200px;
+}
+.list3 {
+    color: blue;
+}
+.list3 img {
+    width: 15%;
+    border-radius: 200px;
+}
+.list4 {
+    color: rgb(250, 142, 160);
+}
+.list4 img {
+    width: 15%;
+    border-radius: 200px;
+}
+span {
+    font-weight: bold;
+}
+.list5 {
+    color: orange;
+}
+.list5 img {
+    width: 15%;
+    border-radius: 200px;
+}
